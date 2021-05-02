@@ -1,0 +1,13 @@
+C:\Users\nikbu\source\repos\CarStore\CarShopGUI\bin\Debug\CarShopGUI.exe.config
+C:\Users\nikbu\source\repos\CarStore\CarShopGUI\bin\Debug\CarShopGUI.exe
+C:\Users\nikbu\source\repos\CarStore\CarShopGUI\bin\Debug\CarShopGUI.pdb
+C:\Users\nikbu\source\repos\CarStore\CarShopGUI\obj\Debug\CarShopGUI.csprojAssemblyReference.cache
+C:\Users\nikbu\source\repos\CarStore\CarShopGUI\obj\Debug\CarShopGUI.Properties.Resources.resources
+C:\Users\nikbu\source\repos\CarStore\CarShopGUI\obj\Debug\CarShopGUI.csproj.GenerateResource.cache
+C:\Users\nikbu\source\repos\CarStore\CarShopGUI\obj\Debug\CarShopGUI.csproj.CoreCompileInputs.cache
+C:\Users\nikbu\source\repos\CarStore\CarShopGUI\obj\Debug\CarShopGUI.exe
+C:\Users\nikbu\source\repos\CarStore\CarShopGUI\obj\Debug\CarShopGUI.pdb
+C:\Users\nikbu\source\repos\CarStore\CarShopGUI\bin\Debug\CarClassLibrary.dll
+C:\Users\nikbu\source\repos\CarStore\CarShopGUI\bin\Debug\CarClassLibrary.pdb
+C:\Users\nikbu\source\repos\CarStore\CarShopGUI\obj\Debug\CarShopGUI.csproj.CopyComplete
+C:\Users\nikbu\source\repos\CarStore\CarShopGUI\obj\Debug\CarShopGUI.CarStoreForm.resources
